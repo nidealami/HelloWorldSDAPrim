@@ -39,10 +39,8 @@ public class Tree {
             System.out.println();
         }
 
-
-        //    }
     }
 }
-
+// dla sprawdzenia
 
 
